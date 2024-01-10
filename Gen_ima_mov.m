@@ -1,4 +1,5 @@
 classdef Gen_ima_mov
+    % 实现在噪点中出现特定方形刺激的windows XP屏幕保护动画效果
     properties
         origpx
         edgepx
